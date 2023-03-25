@@ -4,8 +4,11 @@ To Do List
 ToDoList
 
 This web page is hosted here!
+
 View the local installation in the CONTRUBUTING.md.
+
 Features:
+
 User-friendly
 Local Storage Supported
 Displays current Date and Time
